@@ -13,7 +13,6 @@ What’s in this site:
 - **About** — Short bio, research interests, and a bit about what I’m up to.
 - **Blog** — Technical and non-technical posts (e.g. Git, OOP, PMP).
 - **CV / Resume** — Experience, education, and skills (backed by `assets/json/resume.json`).
-- **Projects** — Showcase of selected projects with optional categories.
 - **News** — Announcements (e.g. papers, milestones) in a compact feed.
 - **Publications** — Bibliography powered by Jekyll Scholar and BibTeX.
 
