@@ -26,10 +26,10 @@ latest_posts:
 
 Hello there ! Welcome to my page 😁
 
-I am currently a Masters Student at the University of Maryland, College Park. I believe code/tech to be a form of creative expression, crafting solutions that solve real world problems of both mine and yours : ) Constantly trying to get better at my art and aim to leave behind a few masterpieces.
+I am currently a Masters Student at the University of Maryland, College Park. I believe code/tech to be a form of creative expression, crafting solutions that solve real world problems of both mine and yours : ) Constantly trying to get better at my art and aim to leave behind a few masterpieces and help a few in creating their own masterpieces.
 
-I have always been curious about how our brain learns and adapts. This curiosity drives my research interest to be in reinforcement learning, evolutionary algorithms and more recently in AI interpretability, where I try to explore different ways to make AI more efficient, effective and explainable. 
+I have always been curious about how our brain learns and adapts. This curiosity drives my interests in reinforcement learning, evolutionary algorithms and AI as a whole. Ever now and then, I try to explore different ways to make AI more efficient, effective and explainable. More recently I have developed an interest towards Data driven decision making and building Data driven models.
 
-In my spare time, i  enjoy playing sports (mostly squash, badminton and tennis), explore hiking trails and occasional binge on some anime.
+In my spare time, i  enjoy playing sports (mostly squash and pickleball), explore hiking trails and occasional binge on some nice anime or play some board games (huge catan fan).
 
-I am always on the lookout for opportunities to collaborate and work on interesting projects. Feel free to reach out to me if you have any questions or just want to say hi!
+I am always on the lookout for opportunities to collaborate and work on interesting projects that can have a positive impact on the world. Feel free to reach out to me if you have any questions or just want to say hi!

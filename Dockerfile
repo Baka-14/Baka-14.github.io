@@ -1,3 +1,36 @@
+FROM ruby:3.3-slim
+
+ENV LANG=C.UTF-8 \
+    LC_ALL=C.UTF-8 \
+    BUNDLE_PATH=/usr/local/bundle \
+    BUNDLE_JOBS=4 \
+    BUNDLE_RETRY=3
+
+# Jekyll plugins in this repo need native build tools + ImageMagick + a JS runtime (ExecJS)
+# and some setups require Python/Jupyter for notebook conversion.
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    imagemagick \
+    nodejs \
+    python3 \
+    python3-pip \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN python3 -m pip install --no-cache-dir jupyter
+
+WORKDIR /site
+
+# Install Ruby gems first for better layer caching.
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
+
+# Copy the rest of the site.
+COPY . .
+
+EXPOSE 4000 35729
+
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload", "--force_polling"]
 FROM ruby:slim
 
 # uncomment these if you are having this issue with the build:
