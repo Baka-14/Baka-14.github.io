@@ -35,6 +35,15 @@ _styles: |
   }
 ---
 
+>"Maine World Champion banna hai. Hai bhai World Champion banna hai, kis me banna hai ? Sir I Want to be the fastest man in world. Theek Hai, toh abhi kon ha ? Usain Bolt. Kya Timing hai ? 9.58 Tere Kya Hai ? Sir 11 Second toh tu kal ko kya beat karega ? 11 and make it 10.99, 10.98, 10.97, 10.96 if you are better than yesterday every single day, one day you will beat Usian Bolt. So even if you want to be a world champion, you competition is you." 
+> — Ranjit Bajaj 
+
+>"Four years ago, four years ago I was in my Mom's house in my moms room streaming and barking Sui! Cristanio Ronaldo Sui! Lighting my house on fire. A kid from Ohio Portugal just doing anything. Now I just performed at the World Cup Finals. So you what that means bro ? You can do whatever you want chat, just believe." 
+> — Speed 
+
+>"Maybe I should quit and go back to making noodles ? Quit, Don't Quit. Noodels, Don't Noodels you are too concerned with what was and what will be. There is a saying, Yesterday is history Tomorrow is a mystery but today is a gift. That is why it is called the present." 
+> — Grand Master Oogway
+
 >"You could be the master of your fate, you could be the captain of your soul, but you have to realize that life is coming from you and not at you, and that takes time."
 > — Timothee Chalamet
 
